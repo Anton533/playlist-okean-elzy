@@ -32,6 +32,18 @@ export const playlists = [
         title: "Бльше Для Нас",
         fileUrl: "./src/audio/Океан-Ельзи-Бльше-Для-Нас.mp3",
       },
+      {
+        coverImageUrl: "./src/img/o-e.png",
+        artistName: "Океан Ельзи",
+        title: "Вдпусти",
+        fileUrl: "./src/audio/Океан-Ельзи-Вдпусти.mp3",
+      },
+      {
+        coverImageUrl: "./src/img/o-e.png",
+        artistName: "Океан Ельзи",
+        title: "Вище Неба",
+        fileUrl: "./src/audio/Океан-Ельзи-Вище-Неба.mp3",
+      },
     ],
   },
 ];
