@@ -58,14 +58,14 @@ export const playlists = [
       {
         coverImageUrl: "./src/img/Океан-Ельзи-Вiдпусти.jpeg",
         artistName: "Океан Ельзи",
-        title: "Вставай",
+        title: "Вiдпусти",
         fileUrl: "./src/audio/Океан-Ельзи-Вiдпусти.mp3",
       },
       {
         coverImageUrl: "./src/img/Океан-Ельзи-Тльки-Там-Де-Нас-Нема.jpeg",
         artistName: "Океан Ельзи",
-        title: "Тльки там, де нас нема",
-        fileUrl: "./src/audio/Океан-Ельзи-Вiдпусти.mp3",
+        title: "Тільки там, де нас нема",
+        fileUrl: "./src/audio/Океан-Ельзи-Тльки-Там-Де-Нас-Нема.mp3",
       },
     ],
   },
