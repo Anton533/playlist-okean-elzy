@@ -49,6 +49,24 @@ export const playlists = [
         title: "Все Буде Добре",
         fileUrl: "./src/audio/Океан-Ельзи-Все-Буде-Добре.mp3",
       },
+      {
+        coverImageUrl: "./src/img/o-e.png",
+        artistName: "Океан Ельзи",
+        title: "Вставай",
+        fileUrl: "./src/audio/Океан-Ельзи-Вставай.mp3",
+      },
+      {
+        coverImageUrl: "./src/img/Океан-Ельзи-Вiдпусти.jpeg",
+        artistName: "Океан Ельзи",
+        title: "Вставай",
+        fileUrl: "./src/audio/Океан-Ельзи-Вiдпусти.mp3",
+      },
+      {
+        coverImageUrl: "./src/img/Океан-Ельзи-Тльки-Там-Де-Нас-Нема.jpeg",
+        artistName: "Океан Ельзи",
+        title: "Тльки там, де нас нема",
+        fileUrl: "./src/audio/Океан-Ельзи-Вiдпусти.mp3",
+      },
     ],
   },
 ];
