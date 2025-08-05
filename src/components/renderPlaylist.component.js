@@ -18,17 +18,5 @@ export function renderPlaylist(playlistForRendering, parentElement) {
 
   playlistForRendering.tracks.forEach((track) => {
     const trackAudioEle = renderTrack(track, tracksListEl);
-
-    trackAudioEle.addEventListener("loadedmetadata", () => {
-      songsDurationList.push(trackAudioEle.duration);
-
-      if (songsDurationList.length === playlistForRederingLength) {
-        const playlistDuration = playlistEl.querySelector(
-          ".playlist__duration"
-        );
-        const time = songsDurationList.reduce((acc, value) => acc + value, 0);
-        playlistDuration.textContent = secondsToMinutesAndSeconds(time);
-      }
-    });
   });
 }

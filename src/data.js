@@ -1,6 +1,5 @@
 export const playlists = [
   {
-    title: "Okean Elzy Hits",
     coverImageUrl: "./src/img/okean-elzy.jpg",
     info: {
       totalTracksCount: 4,
