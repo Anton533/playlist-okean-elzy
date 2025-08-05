@@ -29,7 +29,7 @@ export const playlists = [
       {
         coverImageUrl: "./src/img/o-e.png",
         artistName: "Океан Ельзи",
-        title: "Бльше Для Нас",
+        title: "Більше Для Нас",
         fileUrl: "./src/audio/Океан-Ельзи-Бльше-Для-Нас.mp3",
       },
       {
@@ -43,6 +43,12 @@ export const playlists = [
         artistName: "Океан Ельзи",
         title: "Вище Неба",
         fileUrl: "./src/audio/Океан-Ельзи-Вище-Неба.mp3",
+      },
+      {
+        coverImageUrl: "./src/img/Океан-Ельзи-Все-Буде-Добре.jpeg",
+        artistName: "Океан Ельзи",
+        title: "Все Буде Добре",
+        fileUrl: "./src/audio/Океан-Ельзи-Все-Буде-Добре.mp3",
       },
     ],
   },
